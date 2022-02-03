@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vynard
+- 🏫 I am an undergraduate student at Oklahoma State University double majoring in mathematics and computer science!
+- 🤖 I am a member of OSU's mercury robotics club!
+- 👀 I’m interested in machine learning, computer vision, robotics, and data science (a lot, hard to choose)
+- 🌱 I’m currently learning computer vision and robotics
+- 📫 How to reach me: soulsofwar4242@gmail.com
